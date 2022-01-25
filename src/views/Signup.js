@@ -95,7 +95,8 @@ const Signup = () => {
             </Form.Item>
             <Paragraph>
               By Signing up, you agree to our{" "}
-              <Link href="#">Terms and Conditions</Link>
+              <Link href="#">Terms and Conditions</Link> and{" "}
+              <Link href="#">Privacy Policy</Link>
             </Paragraph>
             <Form.Item>
               <Button
